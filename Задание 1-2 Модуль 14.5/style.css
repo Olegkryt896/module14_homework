@@ -1,0 +1,15 @@
+.card{ 
+  width: 200px;
+  height: 200px;
+}
+
+.card-image { 
+  width: 100%;
+}
+
+.result { 
+  padding-top: 100px;
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+}
